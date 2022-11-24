@@ -4,7 +4,7 @@ A browser based Dub Siren built using React, Typescript and web audio library [T
 
 ## Demo
 
-Live demo [here](https://dub-siren.web.app/)
+Live demo [here](https://dubsiren.web.app)
 
 ## Installation
 
